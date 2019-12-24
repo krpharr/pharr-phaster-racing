@@ -1,0 +1,47 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.nav-style {
+    background-color: #000080;
+}
+
+.brand-logo {
+    /* display: flex; */
+    align-items: center;
+    background-color: white;
+    background-image: url("../images/datson.logo.stripes.png");
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black!important;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 60px!important;
+    font-weight: bold;
+    /* border: 1px solid black; */
+    /* border-radius: 50px; */
+    /* height: 56px; */
+    width: 260px;
+    /* overflow: hidden; */
+    padding: 0px 100px 0 4px!important;
+    margin-left: 16px;
+}
+
+main {
+    margin: 0 16px!important;
+}
+
+
+/* main {
+    flex: 1 0 auto;
+} */
+
+.page-footer {
+    background-image: url("../images/footer.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-color: #90252c;
+}
