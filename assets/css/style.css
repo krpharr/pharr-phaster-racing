@@ -33,10 +33,9 @@ main {
     margin: 0 16px!important;
 }
 
-
-/* main {
+main {
     flex: 1 0 auto;
-} */
+}
 
 .page-footer {
     background-image: url("../images/footer.png");
