@@ -9,7 +9,6 @@ body {
 }
 
 .brand-logo {
-    /* display: flex; */
     align-items: center;
     background-color: white;
     background-image: url("../images/datson.logo.stripes.png");
@@ -20,11 +19,7 @@ body {
     font-family: 'Roboto Mono', monospace;
     font-size: 60px!important;
     font-weight: bold;
-    /* border: 1px solid black; */
-    /* border-radius: 50px; */
-    /* height: 56px; */
     width: 260px;
-    /* overflow: hidden; */
     padding: 0px 100px 0 4px!important;
     margin-left: 16px;
 }

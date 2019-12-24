@@ -14,11 +14,11 @@ const sponsorLogoArray = [
     "wiseco.png"
 ];
 
+
+
 buildSponsorLogoContainer();
 
-$(document).ready(function() {
-    $('.sidenav').sidenav();
-});
+
 
 
 
